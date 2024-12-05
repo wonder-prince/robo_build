@@ -1,0 +1,39 @@
+[0.688s] Invoking command in '/home/interstellar/launch_ws/build/robo_build': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/interstellar/launch_ws/build/robo_build -- -j4 -l4
+[0.757s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.075s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.256s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.257s] -- Added test 'lint_cmake' to check CMake code style
+[1.258s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.261s] -- Added test 'xmllint' to check XML markup files
+[1.263s] -- Configuring done
+[1.275s] -- Generating done
+[1.280s] -- Build files have been written to: /home/interstellar/launch_ws/build/robo_build
+[1.350s] Invoked command in '/home/interstellar/launch_ws/build/robo_build' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/interstellar/launch_ws/build/robo_build -- -j4 -l4
+[1.497s] Invoking command in '/home/interstellar/launch_ws/build/robo_build': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/interstellar/launch_ws/build/robo_build
+[1.523s] -- Install configuration: ""
+[1.525s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/launch
+[1.525s] -- Installing: /home/interstellar/launch_ws/install/robo_build/share/robo_build/launch/robo.launch.py
+[1.525s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf
+[1.525s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/robo.urdf
+[1.525s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/robo.urdf.xacro
+[1.525s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/basic_robot.gv
+[1.526s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/basic_robot.pdf
+[1.526s] -- Installing: /home/interstellar/launch_ws/install/robo_build/share/robo_build/config
+[1.526s] -- Installing: /home/interstellar/launch_ws/install/robo_build/share/robo_build/config/rviz
+[1.526s] -- Installing: /home/interstellar/launch_ws/install/robo_build/share/robo_build/config/rviz/display_moder.rviz
+[1.526s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/ament_index/resource_index/package_run_dependencies/robo_build
+[1.527s] -- Installing: /home/interstellar/launch_ws/install/robo_build/share/ament_index/resource_index/parent_prefix_path/robo_build
+[1.527s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/environment/ament_prefix_path.sh
+[1.527s] -- Installing: /home/interstellar/launch_ws/install/robo_build/share/robo_build/environment/ament_prefix_path.dsv
+[1.527s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/environment/path.sh
+[1.527s] -- Installing: /home/interstellar/launch_ws/install/robo_build/share/robo_build/environment/path.dsv
+[1.528s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/local_setup.bash
+[1.528s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/local_setup.sh
+[1.528s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/local_setup.zsh
+[1.528s] -- Installing: /home/interstellar/launch_ws/install/robo_build/share/robo_build/local_setup.dsv
+[1.528s] -- Installing: /home/interstellar/launch_ws/install/robo_build/share/robo_build/package.dsv
+[1.529s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/ament_index/resource_index/packages/robo_build
+[1.529s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/cmake/robo_buildConfig.cmake
+[1.529s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/cmake/robo_buildConfig-version.cmake
+[1.529s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/package.xml
+[1.534s] Invoked command in '/home/interstellar/launch_ws/build/robo_build' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/interstellar/launch_ws/build/robo_build

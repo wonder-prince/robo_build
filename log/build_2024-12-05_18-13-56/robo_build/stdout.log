@@ -1,0 +1,32 @@
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/interstellar/launch_ws/build/robo_build
+-- Install configuration: ""
+-- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/launch
+-- Installing: /home/interstellar/launch_ws/install/robo_build/share/robo_build/launch/robo.launch.py
+-- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf
+-- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/robo.urdf
+-- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/robo.urdf.xacro
+-- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/basic_robot.gv
+-- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/basic_robot.pdf
+-- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/ament_index/resource_index/package_run_dependencies/robo_build
+-- Installing: /home/interstellar/launch_ws/install/robo_build/share/ament_index/resource_index/parent_prefix_path/robo_build
+-- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/environment/ament_prefix_path.sh
+-- Installing: /home/interstellar/launch_ws/install/robo_build/share/robo_build/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/environment/path.sh
+-- Installing: /home/interstellar/launch_ws/install/robo_build/share/robo_build/environment/path.dsv
+-- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/local_setup.bash
+-- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/local_setup.sh
+-- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/local_setup.zsh
+-- Installing: /home/interstellar/launch_ws/install/robo_build/share/robo_build/local_setup.dsv
+-- Installing: /home/interstellar/launch_ws/install/robo_build/share/robo_build/package.dsv
+-- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/ament_index/resource_index/packages/robo_build
+-- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/cmake/robo_buildConfig.cmake
+-- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/cmake/robo_buildConfig-version.cmake
+-- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/package.xml

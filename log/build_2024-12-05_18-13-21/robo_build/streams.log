@@ -1,0 +1,18 @@
+[0.761s] Invoking command in '/home/interstellar/launch_ws/build/robo_build': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/interstellar/launch_ws/install/py_launch_example:/opt/ros/humble /usr/bin/cmake --build /home/interstellar/launch_ws/build/robo_build -- -j4 -l4
+[0.899s] Invoked command in '/home/interstellar/launch_ws/build/robo_build' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/interstellar/launch_ws/install/py_launch_example:/opt/ros/humble /usr/bin/cmake --build /home/interstellar/launch_ws/build/robo_build -- -j4 -l4
+[1.050s] Invoking command in '/home/interstellar/launch_ws/build/robo_build': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/interstellar/launch_ws/install/py_launch_example:/opt/ros/humble /usr/bin/cmake --install /home/interstellar/launch_ws/build/robo_build
+[1.070s] -- Install configuration: ""
+[1.070s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/launch
+[1.071s] -- Installing: /home/interstellar/launch_ws/install/robo_build/share/robo_build/launch/robo.launch.py
+[1.071s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf
+[1.071s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/robo.urdf
+[1.071s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/robo.urdf.xacro
+[1.071s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/basic_robot.gv
+[1.071s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/basic_robot.pdf
+[1.072s] [31mCMake Error at cmake_install.cmake:46 (file):
+[1.072s]   file INSTALL cannot find
+[1.072s]   "/home/interstellar/launch_ws/src/robo_build/config": No such file or
+[1.072s]   directory.
+[1.072s] 
+[1.073s] [0m
+[1.076s] Invoked command in '/home/interstellar/launch_ws/build/robo_build' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/interstellar/launch_ws/install/py_launch_example:/opt/ros/humble /usr/bin/cmake --install /home/interstellar/launch_ws/build/robo_build

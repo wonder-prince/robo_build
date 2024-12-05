@@ -1,0 +1,14 @@
+-- Install configuration: ""
+-- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/launch
+-- Installing: /home/interstellar/launch_ws/install/robo_build/share/robo_build/launch/robo.launch.py
+-- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf
+-- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/robo.urdf
+-- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/robo.urdf.xacro
+-- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/basic_robot.gv
+-- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/basic_robot.pdf
+[31mCMake Error at cmake_install.cmake:46 (file):
+  file INSTALL cannot find
+  "/home/interstellar/launch_ws/src/robo_build/config": No such file or
+  directory.
+
+[0m

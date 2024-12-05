@@ -1,0 +1,6 @@
+Invoking command in '/home/interstellar/launch_ws/build/robo_build': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/interstellar/launch_ws/src/robo_build -DCMAKE_INSTALL_PREFIX=/home/interstellar/launch_ws/install/robo_build
+Invoked command in '/home/interstellar/launch_ws/build/robo_build' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/interstellar/launch_ws/src/robo_build -DCMAKE_INSTALL_PREFIX=/home/interstellar/launch_ws/install/robo_build
+Invoking command in '/home/interstellar/launch_ws/build/robo_build': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/interstellar/launch_ws/build/robo_build -- -j4 -l4
+Invoked command in '/home/interstellar/launch_ws/build/robo_build' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/interstellar/launch_ws/build/robo_build -- -j4 -l4
+Invoking command in '/home/interstellar/launch_ws/build/robo_build': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/interstellar/launch_ws/build/robo_build
+Invoked command in '/home/interstellar/launch_ws/build/robo_build' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/interstellar/launch_ws/build/robo_build
