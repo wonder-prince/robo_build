@@ -1,0 +1,41 @@
+[0.374s] Invoking command in '/home/interstellar/launch_ws/build/robo_build': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/interstellar/launch_ws/build/robo_build -- -j4 -l4
+[0.467s] Invoked command in '/home/interstellar/launch_ws/build/robo_build' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/interstellar/launch_ws/build/robo_build -- -j4 -l4
+[0.557s] Invoking command in '/home/interstellar/launch_ws/build/robo_build': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/interstellar/launch_ws/build/robo_build
+[0.576s] -- Install configuration: ""
+[0.577s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/launch
+[0.577s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/launch/robo.launch.py
+[0.577s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf
+[0.577s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/robo.urdf
+[0.577s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/robo.urdf.xacro
+[0.577s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/basic_robot.gv
+[0.577s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/ins_bot
+[0.577s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/ins_bot/ins_bot.urdf.xacro
+[0.577s] -- Installing: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/ins_bot/base.urdf.xacro
+[0.577s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/ins_bot/actuator
+[0.578s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/ins_bot/actuator/ins_bot.urdf.xacro
+[0.578s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/ins_bot/actuator/wheel.urdf.xacro
+[0.578s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/ins_bot/actuator/caster.urdf.xacro
+[0.578s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/ins_bot/sensor
+[0.578s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/ins_bot/sensor/imu.urdf.xacro
+[0.578s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/ins_bot/sensor/camera.urdf.xacro
+[0.579s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/ins_bot/sensor/laser.urdf.xacro
+[0.579s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/basic_robot.pdf
+[0.579s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/config
+[0.579s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/config/rviz
+[0.579s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/config/rviz/display_model.rviz
+[0.580s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/ament_index/resource_index/package_run_dependencies/robo_build
+[0.580s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/ament_index/resource_index/parent_prefix_path/robo_build
+[0.580s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/environment/ament_prefix_path.sh
+[0.580s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/environment/ament_prefix_path.dsv
+[0.580s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/environment/path.sh
+[0.580s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/environment/path.dsv
+[0.580s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/local_setup.bash
+[0.580s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/local_setup.sh
+[0.580s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/local_setup.zsh
+[0.580s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/local_setup.dsv
+[0.581s] -- Installing: /home/interstellar/launch_ws/install/robo_build/share/robo_build/package.dsv
+[0.581s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/ament_index/resource_index/packages/robo_build
+[0.581s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/cmake/robo_buildConfig.cmake
+[0.581s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/cmake/robo_buildConfig-version.cmake
+[0.581s] -- Up-to-date: /home/interstellar/launch_ws/install/robo_build/share/robo_build/package.xml
+[0.586s] Invoked command in '/home/interstellar/launch_ws/build/robo_build' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/interstellar/launch_ws/build/robo_build

@@ -9,7 +9,7 @@
         </geometry>
         <material name="black">
           <color rgba="0 0 0 0.8"/>
-        </material>  <!-- Corrected: closed the <material> tag -->
+        </material>  
       </visual>
     </link>
 

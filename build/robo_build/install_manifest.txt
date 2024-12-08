@@ -2,6 +2,7 @@
 /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/robo.urdf
 /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/robo.urdf.xacro
 /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/basic_robot.gv
+/home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/ins_bot/common_inertia.xacro
 /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/ins_bot/ins_bot.urdf.xacro
 /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/ins_bot/base.urdf.xacro
 /home/interstellar/launch_ws/install/robo_build/share/robo_build/urdf/ins_bot/actuator/ins_bot.urdf.xacro

@@ -1,0 +1,20 @@
+[0.692s] Invoking command in '/home/interstellar/launch_ws/src/py_launch_example': PYTHONPATH=/home/interstellar/launch_ws/build/py_launch_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/interstellar/launch_ws/install/py_launch_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_launch_example build --build-base /home/interstellar/launch_ws/build/py_launch_example/build install --record /home/interstellar/launch_ws/build/py_launch_example/install.log --single-version-externally-managed install_data
+[0.940s] running egg_info
+[0.940s] writing ../../build/py_launch_example/py_launch_example.egg-info/PKG-INFO
+[0.941s] writing dependency_links to ../../build/py_launch_example/py_launch_example.egg-info/dependency_links.txt
+[0.941s] writing entry points to ../../build/py_launch_example/py_launch_example.egg-info/entry_points.txt
+[0.941s] writing requirements to ../../build/py_launch_example/py_launch_example.egg-info/requires.txt
+[0.941s] writing top-level names to ../../build/py_launch_example/py_launch_example.egg-info/top_level.txt
+[0.943s] reading manifest file '../../build/py_launch_example/py_launch_example.egg-info/SOURCES.txt'
+[0.944s] writing manifest file '../../build/py_launch_example/py_launch_example.egg-info/SOURCES.txt'
+[0.944s] running build
+[0.944s] running build_py
+[0.944s] running install
+[0.944s] running install_lib
+[0.945s] running install_data
+[0.945s] running install_egg_info
+[0.947s] removing '/home/interstellar/launch_ws/install/py_launch_example/lib/python3.10/site-packages/py_launch_example-0.0.0-py3.10.egg-info' (and everything under it)
+[0.947s] Copying ../../build/py_launch_example/py_launch_example.egg-info to /home/interstellar/launch_ws/install/py_launch_example/lib/python3.10/site-packages/py_launch_example-0.0.0-py3.10.egg-info
+[0.948s] running install_scripts
+[0.968s] writing list of installed files to '/home/interstellar/launch_ws/build/py_launch_example/install.log'
+[0.993s] Invoked command in '/home/interstellar/launch_ws/src/py_launch_example' returned '0': PYTHONPATH=/home/interstellar/launch_ws/build/py_launch_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/interstellar/launch_ws/install/py_launch_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_launch_example build --build-base /home/interstellar/launch_ws/build/py_launch_example/build install --record /home/interstellar/launch_ws/build/py_launch_example/install.log --single-version-externally-managed install_data

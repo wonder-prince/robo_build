@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="ins_bot">
   <!-- 执行器组件 -->
-  <xacro:include filename="$(find ins_bot_description)/urdf/ins_bot/actuato/rwheel.urdf.xacro"/>
-  <xacro:include filename="$(find ins_bot_description)/urdf/ins_bot/actuator/caster.urdf.xacro"/>
+  <xacro:include filename="$(find robo_build)/urdf/ins_bot/actuator/wheel.urdf.xacro"/>
+  <xacro:include filename="$(find robo_build)/urdf/ins_bot/actuator/caster.urdf.xacro"/>
 
   <!-- 执行器主动轮 + 从动轮 -->
-  <xacro:wheel wheel_name="left" xyz="0 0.10 -0.06"/>
-  <xacro:wheel wheel_name="right" xyz="0 -0.10 -0.06"/>
-  <xacro:caster caster_name="front" xyz="0.08 0.0 -0.076"/>
-  <xacro:caster caster_name="back" xyz="-0.08 0.0 -0.076"/>
+  <xacro:wheel_xacro wheel_name="left" xyz="0 0.10 -0.06"/>
+  <xacro:wheel_xacro wheel_name="right" xyz="0 -0.10 -0.06"/>
+  <xacro:caster_xacro caster_name="front" xyz="0.08 0.0 -0.076"/>
+  <xacro:caster_xacro caster_name="back" xyz="-0.08 0.0 -0.076"/>
 </robot>

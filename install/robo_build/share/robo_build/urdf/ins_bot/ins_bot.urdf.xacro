@@ -7,6 +7,8 @@
   <xacro:include filename="$(find robo_build)/urdf/ins_bot/sensor/laser.urdf.xacro"/>
   <xacro:include filename="$(find robo_build)/urdf/ins_bot/sensor/camera.urdf.xacro"/>
 
+  <xacro:include filename="$(find robo_build)/urdf/ins_bot/actuator/ins_bot.urdf.xacro"/>
+
   <xacro:base_xacro length="0.12" radius="0.1"/> <!-- 传感器 -->
 
   <xacro:imu_xacro xyz="0 0 0.02"/>
