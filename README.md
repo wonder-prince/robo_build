@@ -5,6 +5,7 @@
 使用前先安装以下包
 - sudo apt install ros-humble-joint-state-publisher
 - sudo apt install ros-humble-xacro  
-构建项目  
+构建项目
+- 删除build文件 rm -rf /path_to_build  
 - colcon build
 - source install/setup.bash
